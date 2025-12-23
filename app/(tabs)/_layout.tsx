@@ -20,15 +20,32 @@ export default function TabLayout() {
         // Ensure tab bar respects bottom safe area for devices with home indicators
         tabBarStyle: {
           paddingBottom: insets.bottom,
-          height: 49 + insets.bottom, // Default tab bar height (49) + safe area
+          height: 49 + insets.bottom,
+          backgroundColor: "#0A0E27",
+          borderTopColor: "#2D3250",
+          borderTopWidth: 1,
         },
       }}
     >
       <Tabs.Screen
         name="index"
         options={{
-          title: "Home",
+          title: "Inicio",
           tabBarIcon: ({ color }) => <IconSymbol size={28} name="house.fill" color={color} />,
+        }}
+      />
+      <Tabs.Screen
+        name="rider"
+        options={{
+          title: "Pasajero",
+          tabBarIcon: ({ color }) => <IconSymbol size={28} name="person.fill" color={color} />,
+        }}
+      />
+      <Tabs.Screen
+        name="driver"
+        options={{
+          title: "Conductor",
+          tabBarIcon: ({ color }) => <IconSymbol size={28} name="car.fill" color={color} />,
         }}
       />
     </Tabs>

@@ -5,24 +5,25 @@
 
 import { Platform } from "react-native";
 
-const tintColorLight = "#0a7ea4";
-const tintColorDark = "#fff";
+// Voy Ya - Ride Sharing App Color Palette
+const tintColorLight = "#00D9FF";
+const tintColorDark = "#00D9FF";
 
 export const Colors = {
   light: {
-    text: "#11181C",
-    background: "#fff",
+    text: "#FFFFFF",
+    background: "#0A0E27",
     tint: tintColorLight,
-    icon: "#687076",
-    tabIconDefault: "#687076",
+    icon: "#A0A8C0",
+    tabIconDefault: "#A0A8C0",
     tabIconSelected: tintColorLight,
   },
   dark: {
-    text: "#ECEDEE",
-    background: "#151718",
+    text: "#FFFFFF",
+    background: "#0A0E27",
     tint: tintColorDark,
-    icon: "#9BA1A6",
-    tabIconDefault: "#9BA1A6",
+    icon: "#A0A8C0",
+    tabIconDefault: "#A0A8C0",
     tabIconSelected: tintColorDark,
   },
 };
