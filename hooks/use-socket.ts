@@ -1,4 +1,4 @@
-import { useEffect, useState, useRef, useCallback } from "react";
+import React, { useEffect, useRef, useState, useCallback } from "react";
 import { io, Socket } from "socket.io-client";
 
 let globalSocket: Socket | null = null;

@@ -42,7 +42,7 @@
 - [x] Crear pantalla de inicio (Pasajero)
 - [x] Crear pantalla de solicitud de viaje
 - [x] Crear pantalla de viaje en curso
-- [ ] Crear pantalla de historial de viajes
+- [x] Crear pantalla de historial de viajes
 - [ ] Crear pantalla de detalles de viaje
 - [ ] Implementar calificación de conductor
 
@@ -56,11 +56,11 @@
 - [ ] Implementar notificaciones de nuevos viajes
 
 ## Fase 8: Perfil de Usuario
-- [ ] Crear pantalla de perfil
-- [ ] Implementar edición de perfil
+- [x] Crear pantalla de perfil
+- [x] Implementar edición de perfil
 - [ ] Implementar cambio de foto de perfil
-- [ ] Implementar gestión de métodos de pago
-- [ ] Implementar configuración de preferencias
+- [x] Implementar gestión de métodos de pago
+- [x] Implementar configuración de preferencias
 
 ## Fase 9: Cálculo de Tarifas
 - [x] Implementar fórmula de tarifa (base + distancia + tiempo)
