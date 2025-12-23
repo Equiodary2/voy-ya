@@ -44,16 +44,16 @@
 - [x] Crear pantalla de viaje en curso
 - [x] Crear pantalla de historial de viajes
 - [ ] Crear pantalla de detalles de viaje
-- [ ] Implementar calificación de conductor
+- [x] Implementar calificación de conductor
 
 ## Fase 7: Interfaz de Conductor
 - [x] Crear pantalla de inicio (Conductor)
-- [ ] Crear pantalla de solicitudes disponibles
+- [x] Crear pantalla de solicitudes disponibles
 - [ ] Crear pantalla de viaje en curso
 - [ ] Crear pantalla de historial de viajes
 - [ ] Crear pantalla de detalles de viaje
 - [ ] Implementar toggle de disponibilidad
-- [ ] Implementar notificaciones de nuevos viajes
+- [x] Implementar notificaciones de nuevos viajes
 
 ## Fase 8: Perfil de Usuario
 - [x] Crear pantalla de perfil
