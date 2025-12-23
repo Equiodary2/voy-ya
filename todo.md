@@ -75,10 +75,10 @@
 - [ ] Implementar transiciones suaves entre pantallas
 
 ## Fase 11: Notificaciones y Alertas
-- [ ] Implementar notificaciones push para nuevos viajes
-- [ ] Implementar notificaciones de llegada del conductor
-- [ ] Implementar alertas de cancelación
-- [ ] Implementar alertas de error
+- [x] Implementar notificaciones push para nuevos viajes
+- [x] Implementar notificaciones de llegada del conductor
+- [x] Implementar alertas de cancelación
+- [x] Implementar alertas de error
 
 ## Fase 12: Pruebas y Ajustes Finales
 - [x] Pruebas de cálculo de tarifas
