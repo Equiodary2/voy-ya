@@ -25,32 +25,33 @@
 - [x] Implementar validación de datos en backend
 
 ## Fase 4: Integración de Mapas y Geolocalización
-- [ ] Integrar Google Maps API
+- [x] Integrar Google Maps API (componente base)
 - [ ] Implementar geolocalización con Expo Location
-- [ ] Crear componente de mapa interactivo
+- [x] Crear componente de mapa interactivo
 - [ ] Implementar búsqueda de ubicaciones
 - [ ] Implementar cálculo de distancia y ruta
 
 ## Fase 5: Sistema de Seguimiento en Tiempo Real
-- [ ] Configurar Socket.io en backend
-- [ ] Implementar eventos de actualización de ubicación
-- [ ] Implementar eventos de aceptación de viaje
-- [ ] Implementar eventos de finalización de viaje
-- [ ] Crear hook de Socket.io en frontend
+- [x] Configurar Socket.io en backend
+- [x] Implementar eventos de actualización de ubicación
+- [x] Implementar eventos de aceptación de viaje
+- [x] Implementar eventos de finalización de viaje
+- [x] Crear hook de Socket.io en frontend
 
 ## Fase 6: Interfaz de Pasajero
-- [ ] Crear pantalla de inicio (Pasajero)
-- [ ] Crear pantalla de solicitud de viaje
-- [ ] Crear pantalla de viaje en curso (Pasajero)
+- [x] Crear pantalla de inicio (Pasajero)
+- [x] Crear pantalla de solicitud de viaje
+- [ ] Crear pantalla de viaje en curso
 - [ ] Crear pantalla de historial de viajes
 - [ ] Crear pantalla de detalles de viaje
 - [ ] Implementar calificación de conductor
 
 ## Fase 7: Interfaz de Conductor
-- [ ] Crear pantalla de inicio (Conductor)
-- [ ] Crear pantalla de viaje en curso (Conductor)
-- [ ] Crear pantalla de historial de viajes (Conductor)
-- [ ] Crear pantalla de detalles de viaje (Conductor)
+- [x] Crear pantalla de inicio (Conductor)
+- [ ] Crear pantalla de solicitudes disponibles
+- [ ] Crear pantalla de viaje en curso
+- [ ] Crear pantalla de historial de viajes
+- [ ] Crear pantalla de detalles de viaje
 - [ ] Implementar toggle de disponibilidad
 - [ ] Implementar notificaciones de nuevos viajes
 
@@ -62,8 +63,8 @@
 - [ ] Implementar configuración de preferencias
 
 ## Fase 9: Cálculo de Tarifas
-- [ ] Implementar fórmula de tarifa (base + distancia + tiempo)
-- [ ] Crear API para cálculo de tarifa estimada
+- [x] Implementar fórmula de tarifa (base + distancia + tiempo)
+- [x] Crear API para cálculo de tarifa estimada
 - [ ] Implementar actualización en tiempo real de tarifa
 - [ ] Implementar desglose de tarifa en UI
 
@@ -80,10 +81,11 @@
 - [ ] Implementar alertas de error
 
 ## Fase 12: Pruebas y Ajustes Finales
+- [x] Pruebas de cálculo de tarifas
+- [x] Pruebas de Socket.io
 - [ ] Pruebas end-to-end de flujo de pasajero
 - [ ] Pruebas end-to-end de flujo de conductor
 - [ ] Pruebas de seguimiento en tiempo real
-- [ ] Pruebas de cálculo de tarifas
 - [ ] Pruebas de rendimiento
 - [ ] Ajustes de UI/UX basados en pruebas
 - [ ] Optimización de animaciones
