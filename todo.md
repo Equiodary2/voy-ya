@@ -26,10 +26,10 @@
 
 ## Fase 4: Integración de Mapas y Geolocalización
 - [x] Integrar Google Maps API (componente base)
-- [ ] Implementar geolocalización con Expo Location
+- [x] Implementar geolocalización con Expo Location
 - [x] Crear componente de mapa interactivo
 - [ ] Implementar búsqueda de ubicaciones
-- [ ] Implementar cálculo de distancia y ruta
+- [x] Implementar cálculo de distancia y ruta
 
 ## Fase 5: Sistema de Seguimiento en Tiempo Real
 - [x] Configurar Socket.io en backend
@@ -41,7 +41,7 @@
 ## Fase 6: Interfaz de Pasajero
 - [x] Crear pantalla de inicio (Pasajero)
 - [x] Crear pantalla de solicitud de viaje
-- [ ] Crear pantalla de viaje en curso
+- [x] Crear pantalla de viaje en curso
 - [ ] Crear pantalla de historial de viajes
 - [ ] Crear pantalla de detalles de viaje
 - [ ] Implementar calificación de conductor
